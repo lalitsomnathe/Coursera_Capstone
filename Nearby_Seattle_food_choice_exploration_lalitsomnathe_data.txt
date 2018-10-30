@@ -1,0 +1,7 @@
+For  Nearby_Seattle_food_choice_exploration, I would be EXTRACTING lat,lang co-ordinates of Seattle,Bellevue,Everett,Tacoma metro division from below :-
+http://worldpopulationreview.com/us-cities/seattle-population/
+http://worldpopulationreview.com/us-cities/bellevue-population/
+http://worldpopulationreview.com/us-cities/tacoma-population/
+http://worldpopulationreview.com/us-cities/everett-wa-population/
+
+Then I will use Folium map and also Foursquare API to do the analysis, just like we did in our test assignment(week3) and compare the customer/categories.
