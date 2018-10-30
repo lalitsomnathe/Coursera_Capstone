@@ -1,0 +1,25 @@
+Hi everyone,
+I would like to take this opportunity for completing the capstone project with the case study of Washington. Mainly because of SEATTLE.
+
+(1. Background)
+Why SEATLLE ? :-
+https://www.tripsavvy.com/biggest-seattle-area-employers-2965051
+SEATTLE host top employers like Boein, Amazon, Microsoft, Walmart.
+
+The Seattle metropolitan area has more than 3.5 million inhabitants, making it the 15th largest metro area in the country.. http://worldpopulationreview.com/us-cities/seattle-population/
+Wheare as Wahington hosts the population of 7,530,552.
+
+Seattle being mostly workplace the most of population resides in nearby divisions : Bellevue,Everett metro division and the Tacoma metro division.
+Due to increasingly big job opporutnities the population of this area is increasing rapidly. 
+This includes people from different countries Indian, chinese, korean including native americans.
+
+This indicates that there is definite diversitry in food choices.
+
+(2&3. Which problem i.e. target audience and how can be solved)
+I feel, It would be really great to do anlysis how food choices are spread across seattle in these different divisions.
+This analysis could be really helpful if someone is looking for opening a new restaurant nearby.
+He/She could get clear picture where to open the restaturant of his/her category/cuisine like indian chinese etc.
+Suppose there is much concentration of Indian restaurants in a area, we can infer that there are more indian public residing nearby.
+OR 
+Also if some newbie wants to know where can he/she get the good number of choices for particular category, this can be explored with above analysis.
+
